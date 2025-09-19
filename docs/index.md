@@ -8,7 +8,7 @@ title: Curso de Ciberseguridad
 
 
 
-# Curso de Ciberseguridad (50 h) – Basado en 'Ciberseguridad para Torpes – Ed. Ampliada'
+# Curso de Ciberseguridad (50 h) – Ed. Ampliada'
 
 **Autor:** Rubén Muñoz Valadés – Docente SSCE0110  
 **Versión:** 2025-09-19

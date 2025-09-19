@@ -11,7 +11,7 @@
 title: Curso de Ciberseguridad
 ---
 
-<img src="../assets/banner.png" alt="Banner" width="100%"/>
+
 
 # Curso de Ciberseguridad (50 h) – Basado en 'Ciberseguridad para Torpes – Ed. Ampliada'
 

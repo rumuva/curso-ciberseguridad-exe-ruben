@@ -2,11 +2,6 @@
 
 *Basado en “Ciberseguridad para Torpes – Ed. Ampliada”*  
 **Autor:** Rubén Muñoz Valadés (SSCE0110) · **Versión:** 2025-09-19
-
----
-
-##
-
 ---
 title: Curso de Ciberseguridad
 ---

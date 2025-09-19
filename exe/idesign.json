@@ -1,0 +1,226 @@
+{
+  "course": "Ciberseguridad 50h",
+  "version": "2025-09-19",
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "Fundamentos, inventario y priorización",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: entender riesgos y priorizar acciones."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "Contraseñas‑frase, gestor y MFA",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: reforzar identidad digital."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "Señales y protocolo anti‑phishing",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: detectar fraudes por correo/mensajería."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Hardening básico de Windows 11",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: sistema al día y protegido."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Wi‑Fi/Router seguro",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: cerrar puertas principales."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Copias 3‑2‑1 + restauración",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: no perder datos y poder recuperarlos."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Cifrado práctico (7‑Zip/VeraCrypt)",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: proteger datos si se pierde el soporte."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Observación de tu red (ética)",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: entender servicios y tráfico básico en tu entorno."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Respuesta ante incidentes",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: actuar con orden y reducir impacto."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Proyecto integrador + test final",
+      "idevices": [
+        {
+          "type": "Objetivos",
+          "content": "Propósito: Objetivo: integrar controles en un caso real."
+        },
+        {
+          "type": "Caso práctico",
+          "content": "Pasos guiados (copiar desde /content)"
+        },
+        {
+          "type": "Actividad",
+          "content": "Qué entregar y checklist"
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "3–5 preguntas cortas"
+        }
+      ]
+    }
+  ]
+}
